@@ -38,20 +38,25 @@ public sealed class ChatsController(
     [HttpPost]
     public async Task<IActionResult> SendMessage(SendMessageDto request, CancellationToken cancellationToken)
     {
+        if(request.Message == null)
+        {
+            return Ok();
+        }
         Chat chat = new()
         {
             UserId = request.UserId,
             ToUserId = request.ToUserId,
             Message = request.Message,
+            Date = DateTime.Now
            
         };
 
         await context.AddAsync(chat, cancellationToken);
         await context.SaveChangesAsync(cancellationToken);
 
-        string connectionId = ChatHub.Users.First(p => p.Value == chat.ToUserId).Key;
+        //string connectionId = ChatHub.Users.First(p => p.Value == chat.ToUserId).Key;
 
-        await hubContext.Clients.Client(connectionId).SendAsync("Messages", chat);
+       // await hubContext.Clients.Client(connectionId).SendAsync("Messages", chat);
 
         return Ok(chat);
     }

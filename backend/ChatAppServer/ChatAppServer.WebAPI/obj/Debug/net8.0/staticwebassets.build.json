@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xlwFSasVPJjzccWFeXKujTr3iiTUlZRB8KY8FCQQCpM=",
+  "Hash": "e+kc5QN7qg1vVeXY6wIYruGWNrXYL7yyPKzg1MwlkJY=",
   "Source": "ChatAppServer.WebAPI",
   "BasePath": "_content/ChatAppServer.WebAPI",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\avatar\\15913659-3cde-4a53-8d2d-a7a173c237fd.png"
+    },
+    {
+      "Identity": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\15effeb1-5c18-4054-83e5-3ed7c477d349.png",
+      "SourceId": "ChatAppServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "RelativePath": "avatar/15effeb1-5c18-4054-83e5-3ed7c477d349.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\15effeb1-5c18-4054-83e5-3ed7c477d349.png"
     },
     {
       "Identity": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\183a8410-3d96-442a-ba68-e1bb3fb8c020.jpg",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\avatar\\6a497705-8e63-46a8-b534-bf816bf77894.htm"
+    },
+    {
+      "Identity": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\7f17a44b-b9bb-4a95-bbb2-84a25c35bbb8.png",
+      "SourceId": "ChatAppServer.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppServer.WebAPI",
+      "RelativePath": "avatar/7f17a44b-b9bb-4a95-bbb2-84a25c35bbb8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\7f17a44b-b9bb-4a95-bbb2-84a25c35bbb8.png"
     },
     {
       "Identity": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\wwwroot\\avatar\\cfeeea0d-66e6-4e74-b96b-af395698f605.png",

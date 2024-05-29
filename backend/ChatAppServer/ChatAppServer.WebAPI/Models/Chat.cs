@@ -12,7 +12,7 @@ namespace ChatAppServer.WebAPI.Models
         public Guid UserId { get; set; }
         public Guid ToUserId { get; set; }
         public string Message { get; set; } = string.Empty;
-        public DataSetDateTime Date { get; set; }
+        public DateTime Date { get; set; }
 
        
     }

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,15 +31,7 @@
       "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cande\\AppData\\Local\\Temp\\.vsdbgsrc\\e6f8ffb3b02d4f06a7750bb1104ebb3094c8187bef7c51a3f612c3bf9af7a6db\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\cande\\desktop\\signalr\\backend\\chatappserver\\chatappserver.webapi\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED28F81-CBD3-4B41-8B57-BB813EA9CA2F}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,13 +49,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Models\\Chat.cs",
               "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Models\\Chat.cs",
               "ToolTip": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Models\\Chat.cs",
               "RelativeToolTip": "ChatAppServer.WebAPI\\Models\\Chat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T11:34:22.841Z",
               "IsPinned": true,
@@ -51,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cande\\AppData\\Local\\Temp\\.vsdbgsrc\\e6f8ffb3b02d4f06a7750bb1104ebb3094c8187bef7c51a3f612c3bf9af7a6db\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e6f8ffb3b02d4f06a7750bb1104ebb3094c8187bef7c51a3f612c3bf9af7a6db\\Program.cs",
@@ -60,12 +72,50 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T11:35:33.475Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:06:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T16:58:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:56:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Program.cs",
@@ -73,25 +123,24 @@
               "RelativeToolTip": "ChatAppServer.WebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T20:15:22.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T20:15:22.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
               "ToolTip": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "ViewState": "AQIAAAMAAADA//////8gwBwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T20:14:55.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SendMessageDto.cs",
               "DocumentMoniker": "C:\\Users\\cande\\Desktop\\SignalR\\backend\\ChatAppServer\\ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
               "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
